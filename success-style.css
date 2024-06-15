@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+h1 {
+    color: green;
+    font-family: 'Roboto', serif;
+    font-size: 2em;
+    opacity: 1;
+    transition: opacity 0.5s;
+    font-weight: 400;
+}
